@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "430526498041",
+    "project_id": "ooculo-a413d",
+    "storage_bucket": "ooculo-a413d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430526498041:android:6b7bebf1867b4c4c994e28",
+        "android_client_info": {
+          "package_name": "com.example.ooculo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-y4lpbhaR_SX_EfebmWTKNgs8-lTmJGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
